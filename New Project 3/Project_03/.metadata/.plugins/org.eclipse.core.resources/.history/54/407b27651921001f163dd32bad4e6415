@@ -1,0 +1,16 @@
+package in.co.rays.project_3.controller;
+
+
+
+public class BankListCtl extends BaseCtl {
+	
+	private static final long SerialVersionUID = 1L;
+	
+
+	@Override
+	protected String getView() {
+		
+		return null;
+	}
+
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.event.PreLoadEvent"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.ORSView"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelHibImp"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.UserModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.HibDataSource"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Model"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelHibImp"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.PropertyReader"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.ModelFactory"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BankDTO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.exception.ApplicationException"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.ServletUtility"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.OrderDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelHibImpl"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.BaseCtl"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BaseDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.InventoryModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.TransportDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.TransportModelInt"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.DataUtility"/>
+</qualifiedTypeNameHistroy>

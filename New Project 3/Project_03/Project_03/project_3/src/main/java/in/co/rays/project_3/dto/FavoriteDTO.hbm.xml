@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Nov 25, 2024, 2:06:54 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping package="in.co.rays.project_3.dto">
+   	<class name="FavoriteDTO" table="st_Favorite">
+		<id name="id" type="java.lang.Long">
+			<column name="ID"></column>
+			<generator class="increment"></generator>
+	  
+     
+     
+        </id>
+        <property name="product" type="java.lang.String">
+            <column name="PRODUCT" />
+        </property>
+        
+        <property name="addeddate" type="java.util.Date">
+            <column name="ADDEDDATE" />
+        </property>
+        <property name="customerusername" type="java.lang.String">
+            <column name="CUSTOMERUSERNAME" />
+        </property>
+        <property name="notesorcomments" type="java.lang.String">
+            <column name="NOTESORCOMMENTS" />
+        </property>
+    </class>
+</hibernate-mapping>

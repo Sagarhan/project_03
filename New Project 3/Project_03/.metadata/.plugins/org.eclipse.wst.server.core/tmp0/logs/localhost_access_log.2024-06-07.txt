@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Jun/2024:17:20:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:20:53 +0530] "GET /project_3/ HTTP/1.1" 200 716
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:20:53 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:20:57 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3730
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:20:57 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:01 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7414
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:14 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:14 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 9928
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:14 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:19 +0530] "GET /project_3/ctl/UserListCtl HTTP/1.1" 200 20398
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:19 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jun/2024:17:21:19 +0530] "GET /project_3/img/new%20pro11.jpg HTTP/1.1" 304 -

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout resource="/project_3/src/main/java/in/co/rays/project_3/dto/BankDTO.hbm.xml">
+ <TreeFormPage>
+  <Memento type="FileHibernate3">
+   <Memento collapsed="false" type="File Hibernate 3.0"/>
+   <Memento collapsed="false" type="Advanced"/>
+   <Memento collapsed="false" type="Meta"/>
+   <Memento collapsed="false" type="Types"/>
+   <Memento collapsed="false" type="Imports"/>
+   <Memento collapsed="false" type="Classes"/>
+   <Memento collapsed="false" type="Queries"/>
+   <Memento collapsed="false" type="Filters"/>
+  </Memento>
+ </TreeFormPage>
+</Layout>

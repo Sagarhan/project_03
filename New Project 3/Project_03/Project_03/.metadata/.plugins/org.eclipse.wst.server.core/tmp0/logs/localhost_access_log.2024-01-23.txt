@@ -1,0 +1,13 @@
+127.0.0.1 - - [23/Jan/2024:18:49:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:49:51 +0530] "GET /project_3/ HTTP/1.1" 200 711
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:49:52 +0530] "GET /project_3/img/school.jpg HTTP/1.1" 200 1475182
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:49:52 +0530] "GET /project_3/img/custom.png HTTP/1.1" 200 17583
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:49:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:01 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3815
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:01 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:01 +0530] "GET /project_3/img/university_img.jpg HTTP/1.1" 200 2064282
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:06 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7186
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:07 +0530] "GET /project_3/img/login_img.jpg HTTP/1.1" 200 2263867
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:33 +0530] "POST /project_3/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:33 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 10008
+0:0:0:0:0:0:0:1 - - [23/Jan/2024:18:50:33 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
